@@ -8,4 +8,7 @@
 *.caffemodel
 *.mat
 *.npy
+*.png
+*.jpg
+
 
